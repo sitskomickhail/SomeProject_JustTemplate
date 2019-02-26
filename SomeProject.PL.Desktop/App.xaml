@@ -1,0 +1,9 @@
+﻿<Application
+    x:Class="SomeProject.PL.Desktop.App"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="clr-namespace:SomeProject.PL.Desktop"
+    Startup="App_OnStartup"
+    StartupUri="MainWindow.xaml">
+    <Application.Resources />
+</Application>
